@@ -58,7 +58,7 @@ repo link: https://github.com/Nezamkha32/keenkeeper-nzm.git
 
 ## 📬 Submission Links
 
-- **Live Link:** https://keenkeeper.vercel.app
+- **Live Link:** keenkeeper-nzm.vercel.app
 - **GitHub Repository:** https://github.com/username/keenkeeper
 
 ---
