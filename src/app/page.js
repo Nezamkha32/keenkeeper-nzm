@@ -148,8 +148,7 @@ export default function Home() {
 
 
 
-// initial project setup
-// added navbar component
+
 // added banner section
 // added friends json data
 // added friend card component
