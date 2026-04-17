@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# KeenKeeper — Keep Your Friendships Alive
 
-## Getting Started
+KeenKeeper is a friendship management web application built with **Next.js** and **Tailwind CSS**.  
+It helps you track interactions with friends, set relationship goals, and visualize your friendship analytics.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Live Demo
+[View Project](https://keenkeeper.vercel.app)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 📅 Deadlines
+- **60 Marks Submission:** 17 April 2026, 11:59 PM  
+- **30 Marks Submission:** Any time after 17 April 2026  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🛠️ Technologies Used
+- **Next.js** — React framework for building UI and routing  
+- **Tailwind CSS** — Styling and responsive design  
+- **Recharts** — Data visualization (Pie Chart for analytics)  
+- **React Context API** — State management for Timeline interactions  
+- **React Hot Toast** — Toast notifications  
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎯 Features
+1. **Responsive Navbar** with logo, links, and active page highlight  
+2. **Banner Section** with summary cards and "Add Friend" button  
+3. **Friends Grid** displaying friend cards from JSON data  
+4. **Friend Details Page** with stats, relationship goal, and quick check-in buttons  
+5. **Timeline Page** showing all interactions (Call, Text, Video)  
+6. **Stats Page** with Pie Chart analytics of interactions  
+7. **Footer** with branding and social links  
+8. **404 Page** for invalid routes  
+9. **Loading Animation** while fetching data  
+10. **Toast Notifications** when adding interactions  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📂 Project Structure
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📊 Friendship Analytics
+- Pie Chart shows distribution of interactions (Call, Text, Video).  
+- Timeline entries are filterable and sortable (optional enhancements).  
+
+---
+
+## 📬 Submission Links
+- **Live Link:** https://keenkeeper.vercel.app  
+- **GitHub Repository:** https://github.com/username/keenkeeper  
+
+---
+
+## ⭐ Optional Enhancements
+- Sort timeline entries by newest/oldest  
+- Search timeline entries by friend name or interaction type  
