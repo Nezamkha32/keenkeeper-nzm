@@ -144,3 +144,15 @@ export default function Home() {
     </div>
   );
 }
+
+
+
+
+// initial project setup
+// added navbar component
+// added banner section
+// added friends json data
+// added friend card component
+// created friend details page
+// implemented timeline page
+// added stats chart
