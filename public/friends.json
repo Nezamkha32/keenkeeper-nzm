@@ -1,0 +1,108 @@
+{
+  "friends": [
+    {
+      "id": 1,
+      "name": "Sarah Johnson",
+      "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
+      "email": "sarah.johnson@email.com",
+      "days_since_contact": 5,
+      "status": "on-track",
+      "tags": ["college", "close friend"],
+      "bio": "Met in university. Love hiking together and trying new restaurants.",
+      "goal": 14,
+      "next_due_date": "2026-04-24",
+      "interactions": []
+    },
+    {
+      "id": 2,
+      "name": "Alex Chen",
+      "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "email": "alex.chen@email.com",
+      "days_since_contact": 28,
+      "status": "overdue",
+      "tags": ["work", "coding buddy"],
+      "bio": "Former colleague. We bond over programming challenges and coffee.",
+      "goal": 21,
+      "next_due_date": "2026-04-10",
+      "interactions": []
+    },
+    {
+      "id": 3,
+      "name": "Emma Wilson",
+      "picture": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop",
+      "email": "emma.wilson@email.com",
+      "days_since_contact": 12,
+      "status": "almost-due",
+      "tags": ["childhood", "best friend"],
+      "bio": "Childhood friend. We've known each other since primary school.",
+      "goal": 7,
+      "next_due_date": "2026-04-18",
+      "interactions": []
+    },
+    {
+      "id": 4,
+      "name": "Michael Brown",
+      "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+      "email": "michael.brown@email.com",
+      "days_since_contact": 3,
+      "status": "on-track",
+      "tags": ["gym buddy", "sports"],
+      "bio": "Met at the gym. We motivate each other to stay fit and healthy.",
+      "goal": 10,
+      "next_due_date": "2026-04-27",
+      "interactions": []
+    },
+    {
+      "id": 5,
+      "name": "Lisa Martinez",
+      "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "email": "lisa.martinez@email.com",
+      "days_since_contact": 35,
+      "status": "overdue",
+      "tags": ["old friend", "university"],
+      "bio": "Former roommate in college. We talk about life goals and dreams.",
+      "goal": 30,
+      "next_due_date": "2026-04-05",
+      "interactions": []
+    },
+    {
+      "id": 6,
+      "name": "James Thompson",
+      "picture": "https://images.unsplash.com/photo-1519125323518-52dc2b6f3578?w=400&h=400&fit=crop",
+      "email": "james.thompson@email.com",
+      "days_since_contact": 18,
+      "status": "almost-due",
+      "tags": ["work", "mentor"],
+      "bio": "My manager who became a friend. Great career advice and support.",
+      "goal": 14,
+      "next_due_date": "2026-04-19",
+      "interactions": []
+    },
+    {
+      "id": 7,
+      "name": "Sophia Garcia",
+      "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
+      "email": "sophia.garcia@email.com",
+      "days_since_contact": 6,
+      "status": "on-track",
+      "tags": ["art", "creative"],
+      "bio": "Met at an art gallery. We inspire each other creatively.",
+      "goal": 14,
+      "next_due_date": "2026-04-22",
+      "interactions": []
+    },
+    {
+      "id": 8,
+      "name": "David Park",
+      "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "email": "david.park@email.com",
+      "days_since_contact": 42,
+      "status": "overdue",
+      "tags": ["high school", "nostalgia"],
+      "bio": "High school friend. We reminisce about old times and plan reunions.",
+      "goal": 21,
+      "next_due_date": "2026-04-02",
+      "interactions": []
+    }
+  ]
+}
