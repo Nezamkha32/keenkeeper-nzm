@@ -148,9 +148,6 @@ export default function Home() {
 
 
 
-
-// added banner section
-// added friends json data
 // added friend card component
 // created friend details page
 // implemented timeline page
